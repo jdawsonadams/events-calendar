@@ -2,6 +2,13 @@ html {
   font-family: Merriweather, serif;
 }
 
+.event {
+  background-color: #f2f2f2;
+  border: 1px solid #666;
+  color: #333;
+  border-radius: 8px;
+}
+
 .event-grey {
   background-color: #ccc;
   border-radius: 8px;
